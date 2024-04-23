@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related QA APIs "
+  message: "Welcome to EazyBank accounts related webhook APIs "
   contactDetails:
-    name: "Cyrano Marita - QA Lead"
-    email: "cyrano@eazybank.com"
+    name: "Sourav Singh - Developer"
+    email: "sourav@eazybank.com"
   onCallSupport:
-    - (785) 545-6565
-    - (853) 546-3467
+    - (555) 123-2132
+    - (558) 523-4595
